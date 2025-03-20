@@ -1,6 +1,9 @@
 # DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation
 This is the Pytorch implementation of our DPGLA paper submitted in IROS 2025
 
+## Notice: Documentation & Code Enhancement 
+We are currently in the process of refining the code and improving the clarity of the README documentation. If you come across any issues, please feel free to reach out. We appreciate your feedback and will work to address any concerns promptly
+
 ## Installation
 The code has been tested with Conda environment with Python 3.8, CUDA 10.2/11.1, pytorch 1.8.0, wandb, [Open3D](https://www.open3d.org/), [pytorch-lighting 1.4.1](https://lightning.ai/) and [MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine). 
 
