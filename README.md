@@ -9,9 +9,9 @@ The code has been tested with Conda environment with Python 3.8, CUDA 10.2/11.1,
 
 
 ## Dataset
-[SynLiDAR](https://github.com/xiaoaoran/SynLiDAR)
-[SemanticKITTI](https://semantic-kitti.org/)
-[SemanticPOSS](http://www.poss.pku.edu.cn/semanticposs.html)
+* [SynLiDAR](https://github.com/xiaoaoran/SynLiDAR)
+* [SemanticKITTI](https://semantic-kitti.org/)
+* [SemanticPOSS](http://www.poss.pku.edu.cn/semanticposs.html)
 
 ## Usage
 ### Pre-training
