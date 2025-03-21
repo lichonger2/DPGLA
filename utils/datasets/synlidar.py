@@ -13,7 +13,7 @@ class SynLiDARDataset(BaseDataset):
     def __init__(self,
                  version: str = 'full',
                  phase: str = 'train',
-                 dataset_path: str = '/data/csaltori/SynLiDAR/',
+                 dataset_path: str = '/data/SynLiDAR/',
                  mapping_path: str = '_resources/synlidar_semanticposs.yaml',
                  weights_path: str = None,
                  voxel_size: float = 0.05,
