@@ -20,7 +20,7 @@ python train_source.py --config_file configs/source/synlidar2semantickitti.yaml
 ```
 ### UDA
 ```sh
-python adapt_cosmix_uda.py --config_file configs/adaptation/uda/synlidar2semantickitti_cosmix.yaml
+python adapt_cosmix_uda.py --config_file configs/adaptation/uda/synlidar2semantickitti.yaml
 ```
 ### Test
 ```sh
